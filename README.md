@@ -57,4 +57,7 @@ Tuesday
 Wednesday
 
 - [x] Makemore: Wavenet
-- [ ] Transformer implementation
+
+Thursday
+
+- [x] Transformer implementation (nanogpt)
